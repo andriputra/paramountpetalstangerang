@@ -1,0 +1,15 @@
+.redgk_inner{
+	min-width: 763px;
+	float: left;
+	background-color: #fff;
+	padding: 10px;
+} 
+.notice-success.redgk-success-msg
+{
+	border-left-color: #46b450;
+}
+
+.notice-error.redgk-error-msg
+{
+	border-left-color: red! important;
+}
